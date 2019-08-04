@@ -1,0 +1,1 @@
+This is Atom's first git project!
